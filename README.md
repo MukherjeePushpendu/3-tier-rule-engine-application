@@ -209,6 +209,3 @@ If you encounter any issues, feel free to open an issue on GitHub or contribute 
 
 **Happy Coding!**
 
----
-
-Feel free to modify this README according to your exact project needs!
